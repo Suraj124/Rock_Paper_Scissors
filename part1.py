@@ -1,7 +1,7 @@
 import time
 loose="The computer wins"
 win="You win"
-lives=5
+lives=5   #Every  persone will have 5 lives
 score=0
 draw=0
 computer_lives=7
